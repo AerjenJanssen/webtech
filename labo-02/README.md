@@ -6,12 +6,12 @@ Naam: (jouw naam)
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: 
-- b. `article > p`: 
-- c. `.uren li:nth-child(3)`: 
+- a. `header nav ul li a`: alle links in de unordered list, in de header
+- b. `article > p`: alle paragrafen in article
+- c. `.uren li:nth-child(3)`: het derde kind in de lijst van class "uren"
 - d. `h2 ~ p`: 
 - e. `.rassen li:first-child`: 
-
+elke h2 én de paragrafen onder elke h2
 ## 3. Voorspel, dan kijk
 
 Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, specificiteit, volgorde of overerving (of iets anders, benoem het).
